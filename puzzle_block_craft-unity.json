@@ -1,12 +1,12 @@
 [
   {
     "id": 4218755,
-    "init": 2230,
+    "init": 30,
     "name": "video",
     "note": "default",
     "pack": "",
-    "pe1": 2120,
-    "pe2": 2180,
+    "pe1": 120,
+    "pe2": 180,
     "status": true,
     "testMode": false
   }
