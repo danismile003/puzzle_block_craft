@@ -1,0 +1,9 @@
+[ {
+  "id" : "YOUR_PLACEMENT_ID",
+  "init" : 20,
+  "note" : "defull",
+  "pack" : "",
+  "pe1" : 10800,
+  "pe2" : 10800,
+  "status" : false
+} ]
