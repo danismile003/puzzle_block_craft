@@ -1,9 +1,9 @@
 [ {
   "id" : "1032c06c9",
- "init" : 600,
+ "init" : 60,
   "note" : "defull",
   "pack" : "",
-  "pe1" : 2500,
-  "pe2" : 3000,
+  "pe1" : 250,
+  "pe2" : 400,
   "status" : true
 } ]
