@@ -1,11 +1,11 @@
 [ {
   "id" : 4218755,
-  "init" : 30,
+  "init" : 300,
   "name" : "video",
   "note" : "defull",
   "pack" : "",
-  "pe1" : 120,
-  "pe2" : 240,
+  "pe1" : 1200,
+  "pe2" : 2400,
   "status" : true,
   "testMode" : false
 } ]
