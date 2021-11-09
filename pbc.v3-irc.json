@@ -1,9 +1,9 @@
 [ {
-  "id" : "109364axx",
-  "init" : 90,
+  "id" : "1032c06c9",
+  "init" : 250,
   "note" : "defull",
   "pack" : "com.build.vip.realm.city.puzzle",
-  "pe1" : 480,
-  "pe2" : 960,
+  "pe1" : 280,
+  "pe2" : 330,
   "status" : false
 } ]
