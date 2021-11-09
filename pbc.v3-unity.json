@@ -1,11 +1,11 @@
 [ {
-  "id" : 42042xx,
+  "id" : 4218755,
   "init" : 60,
-  "name" : "Interstitial_Android",
+  "name" : "video",
   "note" : "defull",
   "pack" : "",
-  "pe1" : 360,
-  "pe2" : 600,
+  "pe1" : 100,
+  "pe2" : 250,
   "status" : true,
   "testMode" : false
 } ]
